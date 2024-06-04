@@ -31,6 +31,8 @@ color: var(--branco-principal);
 }
 .container{
 height: 100vh;
+display: grid;
+grid-template-columns: 50% 50%;
 
 }
 
@@ -40,5 +42,16 @@ height: 100vh;
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+    text-decoration: none;
 
+}
+.botao-secundario{
+  
+    background-color: transparent;
+    border: 2px solid;
+
+}
+.container-aviso{
+    font-size: 12px;
+    color: var(--cinza-secundario);
 }
