@@ -112,3 +112,75 @@ margin-bottom: 0.1em;
 align-items: center;
 margin: 0 10em;
 }
+
+.secundario-boatao{
+
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container-descrição{
+
+padding: 2em;
+
+}
+
+.dispositivo__lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.dispositivo{
+
+    text-align: center;
+
+}
+
+.dispositivo__titulos{
+
+    font-size: 48px;
+    color: var(--branco-principal);
+
+}
+
+.lista__item{
+    font-size: 32px;
+    color: var(--branco-principal);
+
+}
+
+.rodape {
+    text-align: center;
+    ,margin: 5em 3em;
+}
+.rodape__lista{
+
+display: flex;
+justify-content: center;
+list-style-type: 1em;
+margin-top: 1em;
+
+
+
+}
+
+.rodape__texto{
+margin: 1em;
+color: var(--cinza-secundario);
+font-size: 14px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
